@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="increased_padding">40dp</dimen>
+
+    <dimen name="default_text_size">16sp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">20sp</dimen>
+    <dimen name="desc_padding">10dp</dimen>
+    <dimen name="slide_desc">18sp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+</resources>
