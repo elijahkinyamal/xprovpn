@@ -18,13 +18,13 @@
         <RelativeLayout
             android:id="@+id/main"
             android:layout_width="match_parent"
-            android:layout_height="281dp">
+            android:layout_height="280dp">
 
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="16dp"
+                android:layout_margin="17dp"
                 android:gravity="center"
                 android:orientation="vertical">
 
@@ -53,7 +53,7 @@
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="11dp"
+                android:layout_margin="12dp"
                 android:gravity="center_horizontal"
                 android:orientation="horizontal">
 
