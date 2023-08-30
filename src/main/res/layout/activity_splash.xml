@@ -7,8 +7,8 @@
 
     <ImageView
         android:id="@+id/splash_icon"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="101dp"
+        android:layout_height="101dp"
         android:layout_centerInParent="true"
         android:src="@mipmap/ic_launcher" />
 
@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="5dp"
+        android:layout_marginBottom="6dp"
         android:textColor="@android:color/white"
         android:textSize="15sp" />
 </RelativeLayout>
