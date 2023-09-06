@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="50dp"
+    android:layout_height="51dp"
     android:layout_margin="5dp"
     android:background="@drawable/ic_ip_background"
     android:gravity="center"
     android:orientation="horizontal"
-    android:padding="10dp">
+    android:padding="11dp">
 
     <ImageView
         android:id="@+id/country_flag"
