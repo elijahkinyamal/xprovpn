@@ -25,7 +25,7 @@
             android:id="@+id/host_url_ed"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
+            android:layout_marginLeft="9dp"
             android:layout_weight="1"
             android:ellipsize="end"
             android:hint="Your host url or empty"
@@ -33,7 +33,7 @@
             android:inputType="text"
             android:maxLines="1"
             android:textColor="@android:color/black"
-            android:textSize="16sp"
+            android:textSize="17sp"
             tools:text="Your Host URL or Empty for demo default" />
 
     </LinearLayout>
