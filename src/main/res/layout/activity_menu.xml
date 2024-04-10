@@ -18,13 +18,13 @@
         <RelativeLayout
             android:id="@+id/main"
             android:layout_width="match_parent"
-            android:layout_height="280dp">
+            android:layout_height="282dp">
 
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="17dp"
+                android:layout_margin="18dp"
                 android:gravity="center"
                 android:orientation="vertical">
 
@@ -53,7 +53,7 @@
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="12dp"
+                android:layout_margin="15dp"
                 android:gravity="center_horizontal"
                 android:orientation="horizontal">
 
@@ -61,15 +61,15 @@
                     android:id="@+id/imgshare"
                     android:layout_width="100dp"
                     android:layout_height="101dp"
-                    android:layout_marginLeft="20dp"
-                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="21dp"
+                    android:layout_marginRight="21dp"
                     android:focusable="true"
                     android:src="@drawable/share" />
 
                 <ImageView
                     android:id="@+id/imgfaq"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="101dp"
+                    android:layout_height="101dp"
                     android:layout_marginLeft="21dp"
                     android:layout_marginRight="20dp"
                     android:focusable="true"
